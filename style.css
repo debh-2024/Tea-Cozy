@@ -157,7 +157,7 @@ h4 {
 .contact {
     text-align: center;
     height: 200px;
-    padding-top: 0px;
+    padding-top: 10px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
